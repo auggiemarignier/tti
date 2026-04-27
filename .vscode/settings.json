@@ -1,0 +1,25 @@
+{
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "cSpell.words": [
+        "creager",
+        "ijkl",
+        "ijlk",
+        "jikl",
+        "jilk",
+        "klij",
+        "klji",
+        "lkij",
+        "lkji",
+        "SDDR",
+        "sdicani",
+        "traveltime",
+        "traveltimes",
+        "VMAP"
+    ],
+  "ruff.configuration": "./pyproject.toml",
+  "ruff.importStrategy": "fromEnvironment"
+}
