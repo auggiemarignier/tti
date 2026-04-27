@@ -21,6 +21,9 @@ dev = [
     "pytest-cov>=7.1.0",
 ]
 
+[tool.uv.workspace]
+members = ["profiling"]
+
 [tool.ruff.lint]
 select = [
     "B007",    # Loop control variable {name} not used within loop body
